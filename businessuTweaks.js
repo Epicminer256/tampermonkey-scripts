@@ -4,7 +4,7 @@
 // @version      0.0.0
 // @description  Tweaks parts of the UI to fit better on smaller screens and make everything a little slimmer. Disclaimer, this will force some menus to stay collapsed!
 // @author       Epicminer256
-// @source       https://github.com/epicminer256
+// @source       https://github.com/Epicminer256/tampermonkey-scripts/
 // @match        https://app.businessu.org/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=businessu.org
 // @grant        none
